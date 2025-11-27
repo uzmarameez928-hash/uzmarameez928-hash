@@ -32,7 +32,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzmarameez928-hash&" alt="uzmarameez928-hash" /></p>
 </div>
 
-<img src="(https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+
 
 
 
